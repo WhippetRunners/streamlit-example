@@ -8,7 +8,7 @@ import streamlit as st
 # Welcome to Streamlit!
 
 
-Bark twice if you're in Milwaukee.
+Bark twice if you're in Milwaukee or Minnesota
 """
 
 
